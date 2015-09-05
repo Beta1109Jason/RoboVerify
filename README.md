@@ -22,11 +22,11 @@ if ($ver->validate($_POST['code'])) {
 ?>
 
 # Basics
-HTML:
-You need to add the image img.php, do users can see the code: &lt;img src="img.php" alt="RoboVerify" &gt;
+<p>HTML:</p>
+<p> You need to add the image img.php, do users can see the code: &lt;img src="img.php" alt="RoboVerify" &gt;</p>
 
-PHP:
-You need to require the file val.php in your PHP script: require_once "val.php";
-You need to set a var as the RoboVerify Class: $ver = new RoboVerify;
-To test validation use the function validate(Code to be checked): $ver->validate($_POST['code'])
-It will return true if passed or false if failed or there was an error.
+<p> PHP:</p>
+<p> You need to require the file val.php in your PHP script: require_once "val.php";</p>
+<p>You need to set a var as the RoboVerify Class: $ver = new RoboVerify;</p>
+<p> To test validation use the function validate(Code to be checked): $ver->validate($_POST['code']);</p>
+<p>It will return true if passed or false if failed or there was an error.</p>
