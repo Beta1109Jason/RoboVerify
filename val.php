@@ -2,11 +2,11 @@
 
 class RoboVerify {
 
-	function validate(){
+	function validate($code){
 		session_start();
 
-		if (isset($_POST['code'])) {
-			if ($_POST['code'] == $_SESSION['num']) {
+		if (isset($code)) {
+			if ($code == $_SESSION['num']) {
 				return true;
 				die();
 			}else{
