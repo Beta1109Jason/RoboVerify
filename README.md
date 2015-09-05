@@ -1,5 +1,5 @@
 # RoboVerify
-Sample HTML Page:
+# Sample HTML Page:
 	<form action="test-validate.php" method="post">
 		&lt;img src="img.php" alt="RoboVerify" &gt;
 		<input type="text" name="code">
@@ -7,7 +7,7 @@ Sample HTML Page:
 	</form>
 
 
-Sample PHP script:
+# Sample PHP script:
 <?php
 
 require_once "val.php";
