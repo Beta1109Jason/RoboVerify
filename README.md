@@ -23,7 +23,7 @@ if ($ver->validate($_POST['code'])) {
 
 # Basics
 HTML:
-You need to add the image img.php, do users can see the code: <img src="img.php" alt="RoboVerify" />
+You need to add the image img.php, do users can see the code: &lt;img src="img.php" alt="RoboVerify" &gt;
 
 PHP:
 You need to require the file val.php in your PHP script: require_once "val.php";
