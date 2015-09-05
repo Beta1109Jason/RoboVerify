@@ -1,10 +1,10 @@
 # RoboVerify
 Sample HTML Page:
-		<form action="test-validate.php" method="post">
-		  <img src="img.php" alt="" />
-			<input type="text" name="code">
-			<input type="submit" value="I am not a robot">
-		</form>
+	<form action="test-validate.php" method="post">
+		<img src="img.php" alt="RoboVerify" />
+		<input type="text" name="code">
+		<input type="submit" value="I am not a robot">
+	</form>
 
 
 Sample PHP script:
