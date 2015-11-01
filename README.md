@@ -1,3 +1,5 @@
+<h1>IMPORTANT! Replace OpenSans-Light.ttf with the one <a href="http://www.fontsquirrel.com/fonts/open-sans" target="_blank">here</a>
+
 # Basics
 <h3>HTML:</h3>
 <p> You need to add the image img.php, do users can see the code: <b>&lt;img src="img.php" alt="RoboVerify" &gt;</b></p>
