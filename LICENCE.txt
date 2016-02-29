@@ -1,98 +1,21 @@
-			The Standard Open Source Licence
-					Version 3, January 2016
+The MIT License (MIT)
 
-		Copyright (c) 2016 Zachary Vacura
-	Anyone is permitted to use, copy and distribute copies
-	of this licence, but modification is not allowed.
+Copyright (c) 2016 
 
-	Software Copyright (c) 2016 Zachary Vacura
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-			-----PREAMBLE-----
-The SOSL is a free licence for code.
-This licence is designed to give you the freedom
-to use, change and redistribute this software.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Permission is granted, to anyone, to use the software 
-in any way listed, this includes the rights to, use, 
-copy, modify and distribute the software, subject 
-to the following conditions:
-			-----END PREAMBLE-----
-
-			-----TERMS AND CONDITIONS-----
-	1. Source Code
-The source code must be published and accessible to
-the general public for any persons to use this licence. 
-If the source code is NOT accessible to the general public,
-then this licence will NOT take effect and standard copyright
-law will apply.
-
-	2. Required Header
-The header MUST be in the beginning of ALL code files protected
-by the licence. View the header at https://github.com/Hackzzila/OSL/tree/SOSL
-If this file is NOT in one of the code files, standard copyright
-laws apply to that file.
-
-	3. Use of this Software
-This licence allows for anyone to use this software both privately
-and commercially provided the following conditions are met: You are
-required to credit the copyright holders (See section 6) and state
-all major changes made to the code (See section 7)
-
-	4. Modification
-This licence allows for anyone to modify any part of this software
-provided the following conditions are met: You are required to credit
-the copyright holders (See section 6) and state all major changes made
-to the code (See section 7)
-
-	5. Distubution
-THis licence allows for anyone to distribute this software provided
-the following conditions are met: You are required to credit the copyright
-holders (See section 6) and state all major changes made to the code 
-(See section 7)
-
-	6: Crediting Copyright Holder(s)
-To comply with this licence, you must credit the copyright holder(s).
-Examples: "This project uses {Project Name} by {Copyright Holder}",
-"Based on {Project Name} by {Copyright Holder}" You have to credit
-the copyright holders to be in compliance with the licence.
-
-	7: Stating Major Changes
-To comply with this licence, you must state all major changes made
-to the code. If you do not state all major changes, you will not 
-be in compliance with the licence.
-
-	8. Additional Terms
-This licence MUST be included in ALL versions and copies of this
-software. If it isn't, even though it is not included in that
-release or copy, it will be a violation of this licence.
-
-	9. Violating this Licence
-If you spot a violation of this licence please contact the copyright
-holder immediately at zvacura@outlook.com. If you are the one violating the licence,
-the copyright holder can take legal action against you.
-
-	10. Use of the SOSL
-You can use the SOSL an any open source peice of software. You have to
-have your source code published to the general public or you will be 
-violating the licence. You CANNOT modify the SOSL an ANY WAY although
-you are free to use, copy and distribute it for any purpose.
-
-	11. Warranties
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-	12. Changes to the SOSL
-We reserve the right to make changes to the SOSL at any time without any
-prior notice, if anyone is using an outdated version, the new version takes
-effect 1 week after release unless the licence is updated earlier. View the
-latest licence at https://github.com/Hackzzila/OSL/tree/SOSL.
-			-----END TERMS AND CONDITIONS-----
-
-		Copyright (c) 2016 Zachary Vacura
-		The Standard Open Source Licence
-		Version 3, January 2016
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
